@@ -49,6 +49,6 @@ This flight reservation system is a comprehensive project developed for a DBMS c
    ```bash
    git clone https://github.com/Vignesh-kumar-k/Flight-Reservation-System
    
-#Usage
+## Usage
 Navigate to the appropriate URL in your web browser to access the system.
 Use the interface to book, cancel, and manage flight reservations.
