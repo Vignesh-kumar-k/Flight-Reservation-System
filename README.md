@@ -9,41 +9,6 @@ This flight reservation system is a comprehensive project developed for a DBMS c
 - Integration of essential functionalities to enhance user experience
 - Structured and organized code for ease of maintenance
 
-## Folder Structure
-├── admin
-│ └── initial commit
-
-├── medallion/medallion
-│ └── initial commit
-├── xampp/xampp
-│ └── initial commit
-├── modal
-│ └── initial commit
-├── index.php
-│ └── initial commit
-├── logout.php
-│ └── initial commit
-├── reservation.php
-│ └── initial commit
-├── session_login.php
-│ └── initial commit
-├── transaction.php
-│ └── initial commit
-├── accomodation.php
-│ └── initial commit
-├── index.php
-│ └── initial commit
-├── medallion.sql
-│ └── initial commit
-├── passenger.php
-│ └── initial commit
-├── payment.php
-│ └── initial commit
-├── reserved.php
-│ └── initial commit
-├── test.php
-│ └── initial commit
-
 
 ## Installation
 1. Clone the repository:
