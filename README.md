@@ -12,6 +12,7 @@ This flight reservation system is a comprehensive project developed for a DBMS c
 ## Folder Structure
 ├── admin
 │ └── initial commit
+
 ├── medallion/medallion
 │ └── initial commit
 ├── xampp/xampp
